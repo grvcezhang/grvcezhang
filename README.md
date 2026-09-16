@@ -1,4 +1,4 @@
-# Hey there! I'm Grace
+## Hi! I'm Grace Zhang
 
 I'm a fourth-year **PhD Student** in *Marketing, Consumer Behavior* at the **University of Chicago Booth School of Business**.  
 
@@ -11,4 +11,4 @@ I'm a fourth-year **PhD Student** in *Marketing, Consumer Behavior* at the **Uni
   
 ##
 
-Feel free to explore my projects and connect! 🌟
+Feel free to connect! 

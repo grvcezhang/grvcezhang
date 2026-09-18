@@ -5,7 +5,7 @@ I'm a **PhD Student** in *Marketing, Consumer Behavior* at the **University of C
 ### Links
 
 - Website: [gracezhang.page](https://gracezhang.page)
-- Google Scholar: [Google Scholar](https://scholar.google.com)
+- Google Scholar: [https://scholar.google.com](https://scholar.google.com/citations?user=sX0-EzUAAAAJ&hl=en)
 - LinkedIn: [linkedin.com/in/grvcezhang](https://linkedin.com/in/grvcezhang)
 - Email: [gzhang25@chicagobooth.edu](mailto:gzhang25@chicagobooth.edu)
   
